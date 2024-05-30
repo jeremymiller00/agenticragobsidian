@@ -6,6 +6,9 @@ __pycache__/
 # env file
 .env
 
+# logs
+logs/*
+
 # C extensions
 *.so
 
