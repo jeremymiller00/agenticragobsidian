@@ -1,0 +1,6 @@
+python-dotenv
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-readers-obsidian
+llama-index-llms-ollama

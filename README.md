@@ -5,7 +5,7 @@ My Decription
 # To run the main program, first start the virtual environment, then execute the app module
 ## Create and install dependencies, if necessary
 ```sh
-pyenv activate project-env
+pyenv activate agenticrag-env
 ```
 ```sh
 python project/app.py
@@ -34,3 +34,6 @@ B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
+
+## Sample queries
+what are the top skills I should be working on to become a better product manager
